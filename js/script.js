@@ -15,7 +15,13 @@
 // 1. name
 let firstName = prompt('inserisci qui il tuo nome');
 
-// 2. 
+// 2. cognome
+let lastName = prompt('inserisci qui il tuo cognome');
+
+// 3. colore preferito 
+let favColor = prompt('inserisci qui il tuo xolore preferito')
+
+
 
 
 
