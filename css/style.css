@@ -21,7 +21,7 @@ main div:first-child {
     border-radius: 15px;
 }
 
-#user-password {
+#userPassword {
     padding: 20px;
     color: rgb(32, 32, 32);
     font-weight: 700;

@@ -21,6 +21,14 @@ let lastName = prompt('inserisci qui il tuo cognome');
 // 3. colore preferito 
 let favColor = prompt('inserisci qui il tuo xolore preferito')
 
+// 4. generazione password con i dati forniti dall'user
+let password = firstName + lastName + favColor;
+
+
+
+
+// display la password generata a schermo 
+document.getElementById('userPassword').innerHTML = password;
 
 
 
